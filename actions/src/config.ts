@@ -1,5 +1,5 @@
 // GitHub 仓库信息
-export const OWNER = 'byodian'
+export const OWNER = 'bluebaia'
 export const REPO = 'all-in-github'
 export const TIME_ZONE_NAME = 'Asia/Shanghai'
 export const DATE_TIME_FORMAT = 'yyyy-MM-dd HH:mm:ss'
