@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://byodian.github.io/all-in-github/sitemap-index.xml
